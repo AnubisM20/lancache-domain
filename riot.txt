@@ -3,3 +3,14 @@ worldwide.l3cdn.riotgames.com
 riotgamespatcher-a.akamaihd.net
 riotgamespatcher-a.akamaihd.net.edgesuite.net
 *.dyn.riotcdn.net
+ekg.riotgames.com
+valorant.secure.dyn.riotcdn.net
+riot-client.dyn.riotcdn.net
+lolstatic-a.akamaihd.net
+wildrift.secure.dyn.riotcdn.net
+lol.secure.dyn.riotcdn.net
+bacon.secure.dyn.riotcdn.net
+auth.riotgames.com
+ks-foundation.secure.dyn.riotcdn.net
+clientconfig.rpg.riotgames.com
+data.riotgames.com
