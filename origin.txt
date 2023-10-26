@@ -1,3 +1,5 @@
 origin-a.akamaihd.net
 lvlt.cdn.ea.com
 cdn-patch.swtor.com
+pin-river.data.ea.com
+ratt.juno.ea.com
